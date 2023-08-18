@@ -6,12 +6,12 @@ DATA SOURCE - https://github.com/PhonePe/pulse#readme
 Phonepe pulse Github repository and store it in a suitable format such as CSV
 or JSON.
 
-2.Data transformation: Use a scripting language such as Python, along with
+2. Data transformation: Use a scripting language such as Python, along with
 libraries such as Pandas, to manipulate and pre-process the data. This may
 include cleaning the data, handling missing values, and transforming the data
 into a format suitable for analysis and visualization.
 
-3.Database insertion: Use the "mysql-connector-python" library in Python to
+3. Database insertion: Use the "mysql-connector-python" library in Python to
 connect to a MySQL database and insert the transformed data using SQL
 commands.
 
@@ -27,4 +27,5 @@ the dataframe to update the dashboard dynamically.
 6. Deployment: Ensure the solution is secure, efficient, and user-friendly. Test
 the solution thoroughly and deploy the dashboard publicly, making it
 accessible to users.
+
 
